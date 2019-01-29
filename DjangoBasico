@@ -1,0 +1,20 @@
+# Para crear un ambiente virtual dentro de la carpeta seleccionada
+	virtualenv .
+
+# Para iniciar el ambiente virtual
+	source bin/activate
+
+# Para ver que esta instalado en el proyecto, de aqui sale el requirement
+	pip freeze
+
+# Para instalar el Django
+	pip install Django==X.XX (x.xx es la version)
+
+# Para crear un proyecto
+	django-admin.py startproject NombreDelProyecto
+
+# Para correr las migraciones del proyecto
+	django manage.py migrate
+
+# Para crear un usuario de tipo super usuario
+	django manage.py createsuperuser

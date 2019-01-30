@@ -7,6 +7,9 @@
 # Para ver que esta instalado en el proyecto, de aqui sale el requirement
 	pip freeze
 
+# Para poder instalar el requirement
+	pip install -r requirement.txt
+
 # Para instalar el Django
 	pip install Django==X.XX (x.xx es la version)
 

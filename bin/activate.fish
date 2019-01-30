@@ -36,7 +36,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/julian/Analiticom/aprendizaje/django/django1.8"
+set -gx VIRTUAL_ENV "/home/julian/Analiticom/aprendizaje/django18/learningDjango1.8"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/julian/Analiticom/aprendizaje/django/django1.8"
+VIRTUAL_ENV="/home/julian/Analiticom/aprendizaje/django18/learningDjango1.8"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

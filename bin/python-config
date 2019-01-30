@@ -1,4 +1,4 @@
-#!/home/julian/Analiticom/aprendizaje/django/django1.8/bin/python
+#!/home/julian/Analiticom/aprendizaje/django18/learningDjango1.8/bin/python
 
 import sys
 import getopt
